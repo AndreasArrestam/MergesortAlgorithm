@@ -15,4 +15,4 @@ To run type ./mergesort-x-x -s {size of array}
 
 To get more understanding of the mergesort algorithm: https://www.geeksforgeeks.org/dsa/merge-sort/
 
-
+This code was developed for the course TDDD56 Multicore and GPU Programming
